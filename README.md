@@ -1,5 +1,5 @@
 # Final-project-deep-learning
-# Animal Classification Project
+# Animal Classification
 
 ## Overview
 
