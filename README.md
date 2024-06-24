@@ -1,5 +1,5 @@
 # Final-project-deep-learning
-# Animal Classification
+# Classification
 
 ## Overview
 
@@ -7,7 +7,7 @@ The main goal of this project is to perform image classification on a dataset co
 
 The ultimate goal is to develop deep learning models that can accurately determine the type of specific vehicles depicted in a given image.
 
-The main goal of this project is to leverage deep learning techniques to build robust and accurate image classification models that are able to identify the number of vehicles.
+The main goal of this project is to leverage deep learning techniques to build robust and accurate image classification models that are able to identify the of vehicles.
 
 ## Authors:
 
