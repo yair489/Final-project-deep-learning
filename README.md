@@ -15,7 +15,7 @@ The main goal of this project is to leverage deep learning techniques to build r
 * [Yair Turgeman](https://github.com/yair489)
 * Amit Rovshitz
   
- add picture
+![Screenshot 2024-06-24 124904](https://github.com/yair489/Final-project-deep-learning/assets/118690651/995665e5-cb3c-4847-acbe-42fc6fb7171b)
  
 ## Dataset
 This dataset contains 2,000 unique images of bikes and cars, covering a wide variety of types to challenge model classification.
